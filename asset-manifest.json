@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bolmim-bamashov-interactive-video/static/css/main.26cc41c0.css",
-    "main.js": "/bolmim-bamashov-interactive-video/static/js/main.4ce0256e.js",
+    "main.js": "/bolmim-bamashov-interactive-video/static/js/main.719ad0b6.js",
     "static/media/video8.mp4": "/bolmim-bamashov-interactive-video/static/media/video8.be6eba01cc90e2a70130.mp4",
     "static/media/video7.mp4": "/bolmim-bamashov-interactive-video/static/media/video7.e0c278a4661855e411c9.mp4",
     "static/media/video1.mp4": "/bolmim-bamashov-interactive-video/static/media/video1.74fa63f9df1c6c35087e.mp4",
@@ -12,10 +12,10 @@
     "static/media/video4.mp4": "/bolmim-bamashov-interactive-video/static/media/video4.974443dc0d32bb2d93bd.mp4",
     "index.html": "/bolmim-bamashov-interactive-video/index.html",
     "main.26cc41c0.css.map": "/bolmim-bamashov-interactive-video/static/css/main.26cc41c0.css.map",
-    "main.4ce0256e.js.map": "/bolmim-bamashov-interactive-video/static/js/main.4ce0256e.js.map"
+    "main.719ad0b6.js.map": "/bolmim-bamashov-interactive-video/static/js/main.719ad0b6.js.map"
   },
   "entrypoints": [
     "static/css/main.26cc41c0.css",
-    "static/js/main.4ce0256e.js"
+    "static/js/main.719ad0b6.js"
   ]
 }
